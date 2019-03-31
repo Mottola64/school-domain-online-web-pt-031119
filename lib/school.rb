@@ -9,6 +9,10 @@ def initialize(name)
   roster << name
 end
 
+def roster(name)
+  @roster = roster << name
+  
+end
 
 
 end
