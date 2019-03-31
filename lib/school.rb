@@ -18,4 +18,7 @@ end
 
 def sort(roster)
   roster.sort
+  sorted
+end
+
 end
