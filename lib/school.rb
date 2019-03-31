@@ -7,10 +7,4 @@ def initialize(name)
   roster = {}
 end
 
-def roster(name)
-  @roster = roster << name
-  
-end
-
-
 end
