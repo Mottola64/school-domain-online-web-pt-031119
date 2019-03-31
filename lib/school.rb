@@ -7,3 +7,5 @@ end
 def roster(name)
   roster << name
 end
+
+end
